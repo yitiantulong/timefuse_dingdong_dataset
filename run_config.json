@@ -1,0 +1,22 @@
+{
+    "datasets": [
+      "ETTh1",
+      "ETTh2"
+    ],
+    "models": [
+      "DLinear",
+      "PatchTST",
+      "TimesNet",
+      "PAttn",
+      "TimeMixer",
+      "TimeXer"
+    ],
+    "forecast_settings": [
+      [96, 48, 96]
+    ],
+    "override_args": {
+        "use_gpu": true,
+        "gpu": 0
+    }
+  }
+  
