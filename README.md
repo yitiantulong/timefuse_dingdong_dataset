@@ -1,3 +1,14 @@
+# 我的项目名称
+
+这个项目是基于 [Timefuse](https://github.com/OriginalAuthor/OriginalRepo) 的修改和增强版本。
+
+非常感谢原作者 [@ZhiningLiu 1998]的出色工作。
+
+## 主要修改
+我在原有代码的基础上增添了对dingdong数据集的适配
+
+---
+
 ![](https://raw.githubusercontent.com/ZhiningLiu1998/figures/refs/heads/master/timefuse/method.png)
 
 <h2 align="center">
